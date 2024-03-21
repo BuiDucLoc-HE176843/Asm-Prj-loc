@@ -5,7 +5,8 @@ TÀI KHOẢN NGƯỜI DÙNG
 ![image](https://github.com/BuiDucLoc-HE176843/Asm-Prj-loc/assets/163886379/40c282d8-d1e2-4fcc-9650-dfbb7b737255)
 
 - người dùng có thể chọn danh mục sản phẩm
-![Uploading image.png…]()
+![image](https://github.com/BuiDucLoc-HE176843/Asm-Prj-loc/assets/163886379/4423ab39-96cd-4843-95f8-369076a8542f)
+
 
 - sau đó thì người dùng có thể thêm bớt các sản phẩm vào giỏ hàng và thêm bớt số lượng mua để đặt hàng
 - trang web chính thì có các sản phẩm và có các danh mục sản phẩm riêng để khi click vào hiện ra sản phẩm
