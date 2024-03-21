@@ -10,8 +10,13 @@ TÀI KHOẢN NGƯỜI DÙNG
 - sau đó thì người dùng có thể thêm bớt các sản phẩm vào giỏ hàng và thêm bớt số lượng mua để đặt hàng
 ![image](https://github.com/BuiDucLoc-HE176843/Asm-Prj-loc/assets/163886379/23f7657c-7c9f-49c2-8730-f9252548f03b)
 
-- trang web chính thì có các sản phẩm và có các danh mục sản phẩm riêng để khi click vào hiện ra sản phẩm
-
 TÀI KHOẢN ADMIN
 - tài khoản admin thì có thể edit sản phẩm: thêm, sửa , xóa và update giá cả...
-- bên cạnh đó có cả trả về thông tin người dùng đặt hàng để vận chuyển
+![image](https://github.com/BuiDucLoc-HE176843/Asm-Prj-loc/assets/163886379/a0ec81e0-42a5-4347-b5f2-948e21c0b6b5)
+
+- bên cạnh đó có cả trả về thông tin người dùng đặt hàng để vận chuyển ở phần order
+![image](https://github.com/BuiDucLoc-HE176843/Asm-Prj-loc/assets/163886379/45d97bce-cbd1-4aed-8eed-c95c5d57f17b)
+![image](https://github.com/BuiDucLoc-HE176843/Asm-Prj-loc/assets/163886379/660945f4-5c0c-4522-8d44-0efb0e62e46a)
+
+
+
